@@ -161,7 +161,3 @@ Extract Face ROI → Resize to 200×200
 **Ankit Kumar** — [@Kenk26](https://github.com/Kenk26)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
